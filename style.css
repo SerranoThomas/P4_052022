@@ -1041,3 +1041,11 @@ h4 {
         text-align: center;
     }
 }
+.titre,.citation{
+    font-size: 18px;
+}
+.citation{
+    font-style: italic;
+}
+
+
